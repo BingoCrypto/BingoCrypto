@@ -2,11 +2,10 @@
 <h1 align="center">⚡ 欢迎来到 <span style="color:#39FF14">加密斌哥</span> 的宇宙 🚀</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BingoCrypto&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/BingoCrypto?label=GitHub%20粉丝&style=social" alt="GitHub followers" /> 
-  <img src="https://img.shields.io/github/stars/BingoCrypto?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=BingoCrypto&color=brightgreen)
+  ![GitHub followers](https://img.shields.io/github/followers/BingoCrypto?label=GitHub%20粉丝&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/BingoCrypto?label=GitHub%20Stars&style=social)
 </p>
-
 
 ---
 
