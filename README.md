@@ -12,6 +12,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00FFCB&background=0F0F0F&center=true&vCenter=true&width=650&lines=全栈开发者+%7C+Web3+极客;开源践行者+%7C+自动化狂热者;热爱代码+%7C+探索未来科技" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BingoCrypto&color=brightgreen" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/BingoCrypto?label=GitHub%20粉丝&style=social" alt="GitHub Followers" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/BingoCrypto?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
+</p>
 
 
 ---
