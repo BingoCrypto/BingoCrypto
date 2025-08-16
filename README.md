@@ -3,16 +3,20 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BingoCrypto&color=brightgreen" alt="Profile Views" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/github/followers/BingoCrypto?label=GitHub%20粉丝&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/BingoCrypto?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
 </p>
 
+
 ---
 
-<!-- 打字机效果（毛笔字体 + 金色） -->
+<!-- 打字机效果（现代科技感） -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=28&pause=2000&color=FFD700&center=true&vCenter=true&width=650&lines=全栈开发者+%7C+Web3+极客;开源践行者+%7C+自动化狂热者;热爱代码+%7C+探索未来科技" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00FFCB&center=true&vCenter=true&width=650&lines=全栈开发者+%7C+Web3+极客;开源践行者+%7C+自动化狂热者;热爱代码+%7C+探索未来科技" />
 </p>
+
 
 ---
 
