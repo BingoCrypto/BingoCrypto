@@ -58,10 +58,25 @@
 
 ### 🌐 联系我
 <p align="center" style="margin-bottom:30px;">
-  <a href="https://twitter.com/zoubinwowj"><img src="https://img.shields.io/badge/推特-1DA1F2.svg?logo=twitter&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/zoubinwowj"><img src="https://img.shields.io/badge/电报-26A5E4.svg?logo=telegram&logoColor=white" /></a> 
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/zoubinwowj" target="_blank" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/zoubinwowj" target="_blank" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
+  </a>
+
+  <!-- 邮箱 -->
+  <a href="mailto:digitalbingogo@gmail.com" target="_blank" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mail-dot-ru.svg" alt="Email" width="30" height="30"/>
+  </a>
+
 </p>
+
+
 
 ---
 
