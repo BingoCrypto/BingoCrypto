@@ -1,12 +1,14 @@
 <!-- 个人名片风格标题 -->
 <h1 align="center">⚡ 欢迎来到 <span style="color:#39FF14">加密斌哥</span> 的宇宙 🚀</h1>
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=BingoCrypto&color=brightgreen)
+  &nbsp;&nbsp;&nbsp;
+  ![GitHub Followers](https://img.shields.io/github/followers/BingoCrypto?label=GitHub%20粉丝&style=flat-square&color=blue)
+  &nbsp;&nbsp;&nbsp;
+  ![GitHub Stars](https://img.shields.io/github/stars/BingoCrypto?label=GitHub%20Stars&style=flat-square&color=orange)
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BingoCrypto&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/BingoCrypto?label=GitHub%20粉丝&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/BingoCrypto?label=GitHub%20Stars&style=social)
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00FFCB&background=0F0F0F&center=true&vCenter=true&width=650&lines=全栈开发者+%7C+Web3+极客;开源践行者+%7C+自动化狂热者;热爱代码+%7C+探索未来科技" />
