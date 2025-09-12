@@ -82,6 +82,8 @@
 
 
 
-![Homepage Visitor Count](https://visitor-badge.glitch.me/badge?page_id=BingoCrypto&countColor=00ff00&style=flat-square&labelColor=000000)
+<center>
+<img align="center" src="https://counter.oba.by/get/@dongyubin?theme=rule34" />
+</center>
 
 <p align="center">💡 “写代码、玩区块链、构建未来” 💡</p>
