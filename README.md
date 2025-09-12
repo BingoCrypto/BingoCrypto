@@ -81,5 +81,5 @@
 ---
 
 
-
+![Visitor Count](https://hits.sh/BingoCrypto/github仓库.svg?style=for-the-badge&color=00ff00&labelColor=000000)
 <p align="center">💡 “写代码、玩区块链、构建未来” 💡</p>
